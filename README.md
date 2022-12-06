@@ -12,7 +12,7 @@ Some of the main features of Gitlet include:
 - Creating independent **branches** of commits, allowing **merges** to be made between two branches and any changes in their corresponding files.
 
 I utilized complex data structures, serialization techniques, graph traversals, and file persistence to implement Gitlet from scratch. 
-## Implementation
+## Features
 Commands implemented include:
 - `init`
 - `add`, `rm`
